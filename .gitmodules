@@ -1,0 +1,6 @@
+[submodule "CitadelRag"]
+	path = CitadelRag
+	url = git@github.com:Godwin-T/CitadelRag.git
+[submodule "LatticeAI"]
+	path = LatticeAI
+	url = git@github.com:Godwin-T/Lattice.git
